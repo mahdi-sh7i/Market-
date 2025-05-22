@@ -1,0 +1,4 @@
+- Python 3.x
+- Jupyter Notebook
+- Common data science libraries (e.g., pandas, numpy, matplotlib, seaborn)
+

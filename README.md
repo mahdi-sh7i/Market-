@@ -5,7 +5,7 @@ This project includes a Jupyter Notebook named `Market.ipynb` designed for analy
 
 ## Previwe
 
-
+![14](https://github.com/user-attachments/assets/7983e733-d3d0-4a72-9793-0d90ffdf19d8)
 
 ## Contents
 
